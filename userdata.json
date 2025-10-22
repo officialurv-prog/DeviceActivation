@@ -16,6 +16,12 @@
         "key": "IFUCKHARSH",
         "expirydate": "26-010-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "13b561c7f6ca5afb",
+        "key": "ADMIN:-HARSH",
+        "expirydate": "26-010-2025",
+        "Allowoffline": false
     }
 ]
 
